@@ -1,3 +1,3 @@
 # Merge-Conflict 
 
-by Spencer Boles
+A simple demo, by Spencer Boles, for DMIT-2018
