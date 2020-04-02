@@ -1,1 +1,3 @@
-# Merge-Conflict
+# Merge-Conflict 
+
+by Spencer Boles
